@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.env
+.DS_Store
+/data/raw/
+/data/interim/
+/data/processed/
+/data/external/
+/models/*.pkl
