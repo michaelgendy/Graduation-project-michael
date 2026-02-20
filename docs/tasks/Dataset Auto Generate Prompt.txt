@@ -17,3 +17,4 @@ Using socio-economic rules
 Consider the CAPMAS Egypt reports and ratios (demographic analysis)
 Divide the result into files for each year
 Consider Water and foods
+Consider the age ranges from CAPMAS
