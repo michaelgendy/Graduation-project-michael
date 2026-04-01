@@ -55,7 +55,6 @@ Generate a synthetic CSV dataset for the New Administrative Capital of Egypt (20
     *   Create separate CSV files for each 5-year period (2025-2029, 2030-2034, 2035-2039, 2040-2044, 2045).
     *   Each CSV file should include all the fields mentioned above as columns.
     *   Ensure each CSV file is properly formatted with a header row.
-    *   The files must collectively be at least 100 MB in size.
     *   The file names should follow the format: `NAC_residences_YYYY-YYYY.csv` (e.g., `NAC_residences_2025-2029.csv`).
     *   The script should be well-documented with comments explaining each section of the code.
 
